@@ -88,7 +88,7 @@
 95C:\Users\Lucas Pires\Documents\Material do curso Ebac\PARCEL\projeto tarefa\node_modules\@lezer133754904569710628 1
 118C:\Users\Lucas Pires\Documents\Material do curso Ebac\PARCEL\projeto tarefa\node_modules\cosmiconfig\dist\index.js.map133754904635243810 0
 121C:\Users\Lucas Pires\Documents\Material do curso Ebac\PARCEL\projeto tarefa\node_modules\lmdb\dependencies\lmdb\libraries133754904609820427 1
-88C:\Users\Lucas Pires\Documents\Material do curso Ebac\PARCEL\projeto tarefa\package.json133754908734843649 0
+88C:\Users\Lucas Pires\Documents\Material do curso Ebac\PARCEL\projeto tarefa\package.json133754942309947144 0
 116C:\Users\Lucas Pires\Documents\Material do curso Ebac\PARCEL\projeto tarefa\node_modules\@parcel\reporter-tracer\src133754904608211415 1
 111C:\Users\Lucas Pires\Documents\Material do curso Ebac\PARCEL\projeto tarefa\node_modules\immutable\package.json133754908732994791 0
 120C:\Users\Lucas Pires\Documents\Material do curso Ebac\PARCEL\projeto tarefa\node_modules\caniuse-lite\data\regions\PS.js133754904713406189 0
