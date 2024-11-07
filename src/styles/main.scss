@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+  }
+  
+  body {
+    font-family: 'Arial', sans-serif;
+    background-color: #87CEFA; /* Azul céu */
+    color: #fff;
+    text-align: center;
+
+    header {
+        width: 100%;
+        background-color: #4682B4; /* Azul mais escuro para contraste */
+        padding: 40px;
+
+        h1 {
+            font-size: 3em;
+            margin-bottom: 10px;
+          }
+
+        p {
+        font-size: 1.5em;
+        margin-bottom: 30px
+        }
+      }
+
+      main {
+        padding: 30px;
+        min-height:calc(100vh - 202px - 60px);
+ 
+        section {
+            margin: 40px 0;
+
+              
+            h2 {
+                color: #06253e;
+                font-size: 1.5em;
+                margin-bottom: 10px;
+            }
+
+            p {
+                color: #06253e;
+            }
+
+          }
+
+          .countdown {
+            font-size: 2.5em;
+            font-weight: bold;
+            color: #FF6347; /* Tom laranja para contraste */
+            margin-bottom: 24px;
+          }
+          
+          .message {
+            font-size: 1.2em;
+            color: #FFD700; /* Dourado para um toque especial */
+          }
+          
+          
+      }
+
+      footer {
+        background-color: #4682B4;
+        color: #fff;
+        padding: 20px;
+        font-size: 1em;
+      }
+      
+      footer p {
+        margin: 0;
+      }
+
+      @media screen and (max-width: 768px) {
+        main section {
+        h2 {
+            font-size: 22px;
+
+        }
+      }
+      #countdown {
+        font-size: 30px;
+    }
+
+}
+      
+  }
+  
